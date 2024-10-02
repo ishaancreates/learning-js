@@ -13,8 +13,8 @@ console.log(AnotherName)
 console.log(myYoutubeName)
 
 let userOne = {
-    email : "kuchbhi@gmail.com"
-    // upi : "lorem@ybl"
+    email : "kuchbhi@gmail.com",
+    upi : "lorem@ybl"
 } 
 // ye heap me jayega kyuki ye non primitive h 
 // heap me reference jaata copy nahi 
